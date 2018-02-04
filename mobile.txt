@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 feedly.com##.is-inline.modal-overlay
 feedly.com##.modal.small
 adf.ly##.sm_content
