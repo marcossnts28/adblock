@@ -25,4 +25,5 @@ adf.ly###_bd
 ###spdFloatAds
 ###im_container
 ###sideimg
-
+ditadurag.com###mainmenu
+ditadurag.com##.jl_main_menu
