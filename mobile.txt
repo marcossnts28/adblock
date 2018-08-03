@@ -31,3 +31,18 @@ ditadurag.com##.jl_main_menu
 https://n1internet.com/publicidades/ditadurag/ditadura1.php
 https://n1internet.com/publicidades/ditadurag/ditadura2.php
 https://n1internet.com/publicidades/ditadurag/ditadura3.php
+arquivoporno.com##.banners
+oload.download##.embedbox
+oload.download##.sign-in-box
+oload.download##.vjs-captions-button.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button
+xvideos.com##div[style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: #fff; opacity: 0.5;  filter: alpha(opacity=50)"]
+thebestofcafucus.com##.widget-content
+youtube.com###scrim
+youtube.com##.style-scope.app-drawer
+youtube.com###guide
+###itro_popup
+###itro_opaco
+xtube.com##.mhp1138_shortcutInfo
+xtube.com##.mhp1138_versionsInfo
+||blogger.com/blogin.g?*
+||thisvid.com/contents/other/player/embed/full-video.png
